@@ -1,7 +1,6 @@
 ##Create Plot 1 
 #Set your working directory here first
         
-        setwd('/home/southbaypc/GitZ/Data_Exploration/ExData_Plotting1')
         list.files(getwd())
         
         library(data.table) #For faster download and sort
